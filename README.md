@@ -1,14 +1,10 @@
 <div align="center">
 
-[![logo](https://github.com/Axio-Lab/sel-by-SEL/blob/main/src/assets/images/SEL-logo.png)](https://www.SEL.xyz)
-
 No-code digital commerce protocol powered by Blinks
 
 </div>
 
 <hr />
-
-![banner](https://github.com/Axio-Lab/hublab/blob/bonk/develop/frontend/src/assets/SELBanner.jpg)
 
 SEL allows anyone to create and sell their digital product by sharing the product Blink, thereby creating on-chain experiences for their customers.
 
